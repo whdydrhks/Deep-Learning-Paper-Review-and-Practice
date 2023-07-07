@@ -96,3 +96,5 @@
     * [Original Paper Link](https://arxiv.org/abs/1805.07894) / [Paper Review Video](https://www.youtube.com/watch?v=IDtaVjJoV4g)
 * Adversarial Patch (NIPS 2018)
     * [Original Paper Link](https://arxiv.org/abs/1712.09665) / [Paper Review Video](https://www.youtube.com/watch?v=pOlPlTCfCQE)
+
+checkout ocr like tesseract
